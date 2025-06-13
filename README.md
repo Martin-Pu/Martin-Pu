@@ -3,17 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Martin, a Master Applied Computer Science Student at DIT  👨‍💻 Studying remotely since 2020 🚀</div>  
-  
+### <div align="center">I'm Martin, a Master Electrical Engineering Student at Innsbruck University 
 
-- 🔭 I’m currently working on a FPGA-based Fan Controller <!--- [Github FanController](https://github.com/rishavanand/github-profilinator)  -->
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I prefer Hardware over Software  
-  
 
 <br/>  
 
